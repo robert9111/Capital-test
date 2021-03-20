@@ -1,7 +1,13 @@
 {
   "short_name": "CapCalc",
   "name": "Capital Calculator",
-  "icons": [],
+  "icons": [
+    {   
+    "src": "images/favicon.png",
+    "sizes": "100x98",
+    "type": "image/png"
+  }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
